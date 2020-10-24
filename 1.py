@@ -29,7 +29,7 @@ num1=input("please enter a base number:")
 pow=input("please enter a number for power:")
 result=int(num1)**int(pow)
 print("Result is:",result)
-
+#w12
 ###############################################################
 
 text="is there any professional programmer here?!"
